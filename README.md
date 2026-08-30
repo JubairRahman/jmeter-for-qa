@@ -6,6 +6,13 @@
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-In%20Progress-orange)]()
 
+## 📌 Project Status
+
+🚧 **In Progress**
+
+This repository is actively being developed as a practical learning
+roadmap for QA Engineers learning Apache JMeter and performance engineering.
+
 ## 🎯 About
 
 **JMeter for QA Engineers** is a practical, hands-on learning repository designed to help QA Engineers build real-world performance testing skills using Apache JMeter.
