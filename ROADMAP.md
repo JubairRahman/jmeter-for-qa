@@ -6,6 +6,14 @@ Build practical competency in Apache JMeter and performance engineering, progres
 
 ---
 
+## 📚 Documentation
+
+- [Learning Roadmap](ROADMAP.md)
+- [Changelog](CHANGELOG.md)
+- [Contributing Guide](CONTRIBUTING.md)
+
+---
+
 ## 01 — Performance Testing Foundations & JMeter Architecture
 
 ### Concepts
