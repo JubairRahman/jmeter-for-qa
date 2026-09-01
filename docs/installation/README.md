@@ -1,6 +1,17 @@
 # JMeter Installation & Environment Setup
 
-A practical setup guide for QA Engineers who want to install and configure Apache JMeter for performance testing.
+<p align="center">
+
+  <img src="https://jmeter.apache.org/images/logo.svg" alt="Apache JMeter" width="180"/>
+
+</p>
+
+<p align="center">
+
+<strong>A practical setup guide for QA Engineers who want to install and configure Apache JMeter for performance testing.
+</strong>
+
+</p>
 
 ---
 
@@ -8,11 +19,11 @@ A practical setup guide for QA Engineers who want to install and configure Apach
 
 Before installing JMeter, make sure you have:
 
-* Java JDK
-* Apache JMeter
-* Git
-* Terminal / Command Prompt
-* Basic command-line knowledge
+- Java JDK
+- Apache JMeter
+- Git
+- Terminal / Command Prompt
+- Basic command-line knowledge
 
 > **Recommended Java:** Use a supported LTS JDK. This project currently uses Eclipse Temurin JDK 17.
 
@@ -513,10 +524,10 @@ If the version is displayed successfully, investigate warnings separately rather
 
 The JMeter GUI is intended primarily for:
 
-* Creating test plans
-* Debugging
-* Learning
-* Small-scale validation
+- Creating test plans
+- Debugging
+- Learning
+- Small-scale validation
 
 For actual load tests, prefer:
 
